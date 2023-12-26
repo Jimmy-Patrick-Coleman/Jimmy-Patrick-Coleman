@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Jimmy-Patrick-Coleman
-- 👀 I’m interested in learning programming in my spare time.
-- 🌱 I’m currently learning applied science so i dont have any time to spare.
-- 💞️ I’m looking to collaborate on ... nothing im busy
-- 📫 How to reach me ... Im not looking for people to reach me right now.
+I have taken a hiatus from programming for the past year or two however i am returning albiet rusty.
+Currently redoing the odin project foundations and plan on completeing the object oriented programing course with free code camp
 
 <!---
 Jimmy-Patrick-Coleman/Jimmy-Patrick-Coleman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
